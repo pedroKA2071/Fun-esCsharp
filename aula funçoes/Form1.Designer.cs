@@ -84,7 +84,7 @@
             this.btn2.TabIndex = 4;
             this.btn2.Text = "-";
             this.btn2.UseVisualStyleBackColor = true;
-            this.btn2.Click += new System.EventHandler(this.btn2_Click);
+            this.btn2.Click += new System.EventHandler(this.btn1_Click);
             // 
             // btnmultiplicar
             // 
@@ -95,7 +95,7 @@
             this.btnmultiplicar.TabIndex = 5;
             this.btnmultiplicar.Text = "x";
             this.btnmultiplicar.UseVisualStyleBackColor = true;
-            this.btnmultiplicar.Click += new System.EventHandler(this.btnmultiplicar_Click);
+            this.btnmultiplicar.Click += new System.EventHandler(this.btn1_Click);
             // 
             // btndividir
             // 
@@ -106,7 +106,7 @@
             this.btndividir.TabIndex = 6;
             this.btndividir.Text = "/";
             this.btndividir.UseVisualStyleBackColor = true;
-            this.btndividir.Click += new System.EventHandler(this.btndividir_Click);
+            this.btndividir.Click += new System.EventHandler(this.btn1_Click);
             // 
             // lbresultado
             // 

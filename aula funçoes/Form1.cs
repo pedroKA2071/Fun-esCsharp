@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Web;
 using System.Windows.Forms;
 
 namespace aula_funçoes
@@ -73,13 +74,13 @@ namespace aula_funçoes
                 { 
                     resultado = num1 - num2;
                 }
-                else if (operador == "*") 
+                else if (operador == "x") 
                 {
                     resultado = num1 * num2;
                 }
                 else if (operador == "/") 
                 {
-                    resultado = num2 / num2;
+                    resultado = num1 / num2;
                 }    
              
                 
@@ -96,9 +97,13 @@ namespace aula_funçoes
             int numero1 = int.Parse(txb1.Text);
             int numero2 = int.Parse(txb2.Text);
 
+            Button botao  = (Button)sender;
+
+            String operadorSelecionado = botao.Text;
+
             int total;
                 
-            total= CalculosMath(numero1, numero2, "+");
+            total= CalculosMath(numero1, numero2, operadorSelecionado);
 
             lbresultadoo.Text = total.ToString();
 
