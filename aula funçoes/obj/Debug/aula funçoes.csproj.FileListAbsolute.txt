@@ -1,0 +1,10 @@
+C:\Users\pedro.hgaspar2\source\Repos\primeira aula de prog\Hello World\aula funçoes\aula funçoes\bin\Debug\aula funçoes.exe.config
+C:\Users\pedro.hgaspar2\source\Repos\primeira aula de prog\Hello World\aula funçoes\aula funçoes\bin\Debug\aula funçoes.exe
+C:\Users\pedro.hgaspar2\source\Repos\primeira aula de prog\Hello World\aula funçoes\aula funçoes\bin\Debug\aula funçoes.pdb
+C:\Users\pedro.hgaspar2\source\Repos\primeira aula de prog\Hello World\aula funçoes\aula funçoes\obj\Debug\aula funçoes.csproj.AssemblyReference.cache
+C:\Users\pedro.hgaspar2\source\Repos\primeira aula de prog\Hello World\aula funçoes\aula funçoes\obj\Debug\aula_funçoes.lbresultado.resources
+C:\Users\pedro.hgaspar2\source\Repos\primeira aula de prog\Hello World\aula funçoes\aula funçoes\obj\Debug\aula_funçoes.Properties.Resources.resources
+C:\Users\pedro.hgaspar2\source\Repos\primeira aula de prog\Hello World\aula funçoes\aula funçoes\obj\Debug\aula funçoes.csproj.GenerateResource.cache
+C:\Users\pedro.hgaspar2\source\Repos\primeira aula de prog\Hello World\aula funçoes\aula funçoes\obj\Debug\aula funçoes.csproj.CoreCompileInputs.cache
+C:\Users\pedro.hgaspar2\source\Repos\primeira aula de prog\Hello World\aula funçoes\aula funçoes\obj\Debug\aula funçoes.exe
+C:\Users\pedro.hgaspar2\source\Repos\primeira aula de prog\Hello World\aula funçoes\aula funçoes\obj\Debug\aula funçoes.pdb
